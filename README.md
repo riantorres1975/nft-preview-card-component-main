@@ -1,4 +1,4 @@
-# Frontend Mentor - QR code component solution
+# Frontend Mentor - nft preview card-component
 
 This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
@@ -7,7 +7,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ![](./screenshot.jpg)
 
 ### Links
-- Live Site URL: [qr-component](https://qr-component-frontendmentor-rian.netlify.app/)
+- Live Site URL: [qr-component](https://nft-preview-card-component-main-riant.netlify.app/)
 
 ## My process
 
@@ -16,7 +16,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-- Mobile-first workflow
 
 ## Author
 - Frontend Mentor - [@whoamiLiinux](https://www.frontendmentor.io/profile/whoamiLiinux)
