@@ -169,4 +169,11 @@ body{
   color: var(--Soft-blue);
 }
 
+.attribution{
+  font-size: 11px; text-align: center;
+}
+
+.attribution a { 
+  color: var(--Soft-blue);
+}
 
