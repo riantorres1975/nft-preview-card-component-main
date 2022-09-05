@@ -7,7 +7,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ![](./screenshot.jpg)
 
 ### Links
-- Live Site URL: [qr-component](https://nft-preview-card-component-main-riant.netlify.app/)
+- Live Site URL: [nft-preview-card-component](https://nft-preview-card-component-main-riant.netlify.app/)
 
 ## My process
 
